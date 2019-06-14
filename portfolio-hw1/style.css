@@ -1,0 +1,39 @@
+body{
+	background-color: #white;
+	text-align: center;
+	font-family: EB Garamond, calibri;
+}
+
+img{
+	border: 3px white;
+	border-radius: 50%;
+}
+
+.nav-box{
+	text-align: left;
+	color;black;
+	height: 40px;
+}
+
+.prof-pic{
+	background-image: url(images/brooklynwallpaper.png);
+  	height: 510px;
+}
+
+.about-me{
+	text-align: center;
+	height: 200px;
+}
+
+.work-experience{
+	text-align: left;
+	padding-left: 20px;
+}
+
+.work-experience-bullet{
+	text-align: left;
+	padding-left: 40px;
+}
+
+
+
